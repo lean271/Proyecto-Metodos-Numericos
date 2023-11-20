@@ -1,3 +1,9 @@
-#Poyecto de la asignatura Metodos Numéricos
-#Programas de Métodos de Interpolación Polinómica
-#Polinomio Único
+#Poyecto de la asignatura Métodos Numéricos
+#Programas de Métodos de Interpolación Numérica
+#Los métodos utilizados son:
+#1. Interpolación Lineal
+#2. Interpolación Polinomial, Polinomio Único
+#3. Método de Lagrange
+#4. Método de Newton
+#4.1 Intervalos Variables
+#4.2 Diferencias Divididas hacia adelante
